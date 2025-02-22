@@ -25,7 +25,7 @@
    <br/>
    When are you most productive during the day?
    <br/>
-   Let's check out in gist!
+   Let's check out in gist
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 This project uses GitHub graphQL API to get the commit histories and write into the gist by [rest.js](https://github.com/octokit/rest.js#readme)
 
-## Setup
+## Setup  
 
 ### Prep work
 
